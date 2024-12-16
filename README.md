@@ -6,4 +6,4 @@ Os documentos que fazem parte da criação e gerenciamento deste projeto podem s
 * [Lean inception](https://docs.google.com/document/d/1Dqi0ZTWxllKQf2g28NTl8bGZzwX0leq8VEg7rJTtvFA/edit?tab=t.0)  
 * [Product backlog](https://docs.google.com/document/d/1-4Gr9ntwc9bOhma04t9aOjs_x9AWQ9TO8g1vJstoAf4/edit?tab=t.0)  
 * [Sprint backlog](https://docs.google.com/document/d/1qKYZ6NZI1Pc2lqUYJ6vPUsxTrfu3sEyn4UpY0Vy497g/edit?tab=t.0)  
-
+* [Screens textual description](https://docs.google.com/document/d/1oO2GNtrBdPeZ14Leiv1pUa8lElNo9z4LJTpviPoUVPs/edit?usp=sharing)
